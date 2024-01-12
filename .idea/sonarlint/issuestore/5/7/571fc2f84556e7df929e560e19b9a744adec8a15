@@ -1,0 +1,15 @@
+
+[
+java:S1854<">Remove this useless assignment to local variable "resultFlag".(Š®÷Ü8şŞ¹ ¸1
+Q
+java:S1481%"/Remove this unused "resultFlag" local variable.(¾•õ¤úÿÿÿÿ8şŞ¹ ¸1
+z
+java:S1989/"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(Ï·ûÿÿÿÿ8şŞ¹ ¸1
+r
+java:S19892"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒÍˆüüÿÿÿÿ8şŞ¹ ¸1
+r
+java:S1989G"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒÍˆüüÿÿÿÿ8œ£» ¸1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ç¼Ó™8şŞ¹ ¸1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(á²²8şŞ¹ ¸1

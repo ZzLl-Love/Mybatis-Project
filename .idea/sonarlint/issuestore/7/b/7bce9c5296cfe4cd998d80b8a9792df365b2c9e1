@@ -1,0 +1,25 @@
+
+h
+java:S2259/"FA "NullPointerException" could be thrown; "username" is nullable here.(΅„•ψÿÿÿÿ8Λίχ³Έ1
+h
+java:S22595"FA "NullPointerException" could be thrown; "password" is nullable here.(ΎΥÒϊÿÿÿÿ8Λίχ³Έ1
+r
+java:S19891"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒΝόόÿÿÿÿ8Λίχ³Έ1
+T
+java:S11352"2Complete the task associated to this TODO comment.( ό·Δϊÿÿÿÿ8Λίχ³Έ1
+r
+java:S19898"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒΝόόÿÿÿÿ8Ϊίχ³Έ1
+T
+java:S11357"2Complete the task associated to this TODO comment.( ό·Δϊÿÿÿÿ8Ϊίχ³Έ1
+u
+java:S1989H"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Εÿ–Ώϋÿÿÿÿ8είχ³Έ1
+T
+java:S1135G"2Complete the task associated to this TODO comment.(ώ¦χÿÿÿÿÿ8είχ³Έ1
+p
+java:S1989M"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Λν8είχ³Έ1
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(–…µωÿÿÿÿ8είχ³Έ1
+u
+java:S2226 "XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(α²²8είχ³Έ1
+z
+java:S2226$"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Η…™Ϋϋÿÿÿÿ8είχ³Έ1

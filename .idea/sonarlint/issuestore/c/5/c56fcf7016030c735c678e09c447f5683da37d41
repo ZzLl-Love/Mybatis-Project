@@ -1,0 +1,12 @@
+
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(¢ô´úúÿÿÿÿ8«˜Ü¸1
+{
+java:S14888"YImmediately return this expression instead of assigning it to the temporary variable "t".(ãƒ–ıûÿÿÿÿ8¯˜Ü¸1
+|
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ ¡ş8Ş˜Ü¸1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ë ®Éüÿÿÿÿ8î˜Ü¸1
+Q
+java:S2864I"4Iterate over the "entrySet" instead of the "keySet".(øÛ€8Ú²Ü¸1
+H
+java:S1128"+Remove this unused import 'java.io.Reader'.(µû¨é8‘™Ü¸1

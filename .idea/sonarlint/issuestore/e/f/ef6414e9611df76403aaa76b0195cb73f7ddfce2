@@ -1,0 +1,8 @@
+
+b	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(¤ùáÇ8…ú°­¸1
+{
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¹Ñ² 8Äú°­¸1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(•¶Òï8Äú°­¸1
+b
+java:S32525"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(¹¾ª8Äú°­¸1

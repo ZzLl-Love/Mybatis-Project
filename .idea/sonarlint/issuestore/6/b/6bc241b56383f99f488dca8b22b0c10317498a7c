@@ -1,0 +1,22 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ν—‚έ8άκάΆΈ1
+N
+java:S1481(",Remove this unused "delFlag" local variable.(ªετκϊÿÿÿÿ8ύκάΆΈ1
+r
+java:S19895"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒΝόόÿÿÿÿ8ƒλάΆΈ1
+r
+java:S1989:"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒΝόόÿÿÿÿ8ƒλάΆΈ1
+r
+java:S1989@"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒΝόόÿÿÿÿ8ƒλάΆΈ1
+n
+java:S1989E"QHandle the following exception that could be thrown by "toJavaBean": IOException.(΄―©8ƒλάΆΈ1
+m
+java:S1989E"PHandle the following exception that could be thrown by "getReader": IOException.(΄―©8λάΆΈ1
+r
+java:S1989I"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒΝόόÿÿÿÿ8λάΆΈ1
+r
+java:S1989Y"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒΝόόÿÿÿÿ8ΤξέΆΈ1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ηΌΣ™8λάΆΈ1
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(αΪΚό8λάΆΈ1
